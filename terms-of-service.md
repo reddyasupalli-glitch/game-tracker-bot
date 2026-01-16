@@ -1,3 +1,5 @@
+Title: Terms of Service – Game Tracker Bot
+
 Effective Date: January 16, 2026
 
 By using Game Tracker Bot, you agree to these Terms:
